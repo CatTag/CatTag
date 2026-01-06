@@ -1,2 +1,2 @@
-# Catty git
-this is the catty@catty-pc git
+# CatTag
+Program shitcode fairly regularly but most of it doesnt end up here  
